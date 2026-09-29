@@ -1,0 +1,14 @@
+ĐỀ TÀI: Tiến lên miền Nam 2–4 người/phòng.
+- Bộ bài 52 lá
+- Chia bài
+- Tạo phòng
+- Tham gia phòng
+- 2–4 người chơi
+- Xác định lượt
+- Đánh bài
+- Kiểm tra bài hợp lệ
+- Bỏ lượt
+- Chặt 2
+- Ăn trắng nếu muốn mở rộng
+- Xác định người thắng
+- Lưu lịch sử trận đấu
